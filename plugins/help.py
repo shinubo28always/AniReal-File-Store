@@ -7,20 +7,20 @@ from pyrogram.enums import ParseMode
 
 HELP_IMAGE_URL = "https://graph.org/file/468ced08a20ce21d2794d-94b1a5448990e4b683.jpg"
 
-HELP_TEXT = """🥰 Kon’nichiwa {user_mention}! ~
+HELP_TEXT = """<b>🥰 Kon’nichiwa {user_mention}! ~
 
-⚔️ I’ᴍ ᴀɴ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇᴅ ғɪʟᴇ ʙᴏᴛ 🎥
+<blockquote>⚔️ I’ᴍ ᴀɴ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇᴅ ғɪʟᴇ ʙᴏᴛ 🎥
 Bᴏʀɴ ɪɴ ᴛʜᴇ ʀᴇᴀʟᴍ ᴏғ ᴅᴀᴛᴀ ᴀɴᴅ ᴄᴏᴅᴇ, I sᴇʀᴠᴇ ᴛᴏ ᴅᴇʟɪᴠᴇʀ sᴘᴇᴄɪᴀʟ ᴀɴɪᴍᴇ ғɪʟᴇs ᴛᴏ ᴛʜᴇ ᴡᴏʀᴛʜʏ ⚡
 
 💮 Tᴏ ᴀᴄᴄᴇss ᴍʏ sᴇᴄʀᴇᴛ ᴀʀᴄʜɪᴠᴇs, ʏᴏᴜ ᴍᴜsᴛ ᴊᴏɪɴ ᴀʟʟ ᴛʜᴇ ᴀʟʟɪᴇᴅ ᴄʜᴀɴɴᴇʟs 🎯
 Oɴʟʏ ᴛʜᴇɴ ᴛʜᴇ ᴘᴏʀᴛᴀʟ ᴡɪʟʟ ᴏᴘᴇɴ 🔓
 
 🌌 Oɴᴄᴇ ʏᴏᴜ’ʀᴇ ɪɴ, ᴛʜᴇ ғɪʟᴇs ᴡɪʟʟ ʀᴇᴠᴇᴀʟ ᴛʜᴇɪʀ ᴛʀᴜᴛʜ 💫
-Aɴɪᴍᴇ sᴘɪʀɪᴛs ᴀʀᴇ ᴡᴀɪᴛɪɴɢ ғᴏʀ ʏᴏᴜ 🌀
+Aɴɪᴍᴇ sᴘɪʀɪᴛs ᴀʀᴇ ᴡᴀɪᴛɪɴɢ ғᴏʀ ʏᴏᴜ 🌀</blockquote>
 
 <blockquote><b>» Users Commands:</b></blockquote>
-‣ /start - Start the bot! 🟢
-‣ /help – Summon The Help Menu 📜
+<blockquote>‣ /start - Start the bot! 🟢
+‣ /help – Summon The Help Menu 📜</blockquote>
 
 <blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
