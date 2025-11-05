@@ -5,7 +5,7 @@ from bot import Bot  # your bot instance
 from pyrogram.enums import ParseMode
 
 
-HELP_IMAGE_URL = "https://graph.org/file/468ced08a20ce21d2794d-94b1a5448990e4b683.jpg"
+HELP_IMAGE_URL = "https://graph.org/file/927bf2751b931e2496aed-0dbc57797e8526bad4.jpg"
 
 HELP_TEXT = """<b>🥰 Kon’nichiwa {user_mention}! ~</b>\n\n
 <blockquote><b>⚔️ I’ᴍ ᴀɴ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇᴅ ғɪʟᴇ ʙᴏᴛ 🎥\n
