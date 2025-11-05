@@ -24,7 +24,7 @@ BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/AniReal_Chat_Group_Asi
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://graph.org/file/0591ce5558c3ec8fe7612-263292508134daf3e1.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/5fb2a9e904ae7870b8862-fb58603ada523ac527.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/fdc4357abfaba23255e98-24d1bbfa3888cdfcfe.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
