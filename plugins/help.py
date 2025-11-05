@@ -15,6 +15,13 @@ Oɴʟʏ ᴛʜᴇɴ ᴛʜᴇ ᴘᴏʀᴛᴀʟ ᴡɪʟʟ ᴏᴘᴇɴ 🔓\n\n
 🌌 Oɴᴄᴇ ʏᴏᴜ’ʀᴇ ɪɴ, ᴛʜᴇ ғɪʟᴇs ᴡɪʟʟ ʀᴇᴠᴇᴀʟ ᴛʜᴇɪʀ ᴛʀᴜᴛʜ 💫\n
 Aɴɪᴍᴇ sᴘɪʀɪᴛs ᴀʀᴇ ᴡᴀɪᴛɪɴɢ ғᴏʀ ʏᴏᴜ 🌀</b></blockquote>\n\n
 
+<b>🪄 How To Use The Bot?</b>\n\n
+<blockquote>
+<b>⚙️ Don’t know how to use this bot? No worries! 😄\n
+Just follow our simple step-by-step tutorial to understand everything easily.</b>\n\n
+👉 <b><a href="https://t.me/AniReal_Updates/107">Click Here To Watch The Tutorial 🎬</a></b>
+</blockquote>
+
 <b>» Users Commands:</b>\n
 <blockquote>‣ <b>/start</b> - Start the bot! 🟢\n
 ‣ <b>/help</b> – Summon the help menu 📜</blockquote>\n\n
