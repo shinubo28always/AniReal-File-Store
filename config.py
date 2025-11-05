@@ -33,7 +33,7 @@ ABOUT_TXT = "<b>🤖 Kaoruko Waguri Bot - About</b>\n\n<b><blockquote>💡 Bot S
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>💖 Hᴇʟʟᴏ {first}!🥀\n\n<blockquote>I ᴀᴍ Kaoruko Waguri ✨ Your Personal Anime & File Access Bot🚀 I ᴄᴀɴ sᴀᴠᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ ᴄʜᴀɴɴᴇʟs🔗 & Gɪᴠᴇ ʏᴏᴜ ᴀᴄᴄᴇss via a Special Link</blockquote>\n<blockquote>🔰 Check Out Our Channels & Get Files Instantly! 🔰</blockquote></b>")
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {first}\n\n<b>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʀᴇʟᴏᴀᴅ button ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "<b>🚨 Please Join Our Channels First!</b>\n\n<blockquote>⚡ To continue using this bot, make sure you've joined all the required channels mentioned below.\nOnce done, click the <b>TRY AGAIN</b> button to verify your access!</blockquote>\n\n<blockquote>💡 If you're facing any issue using the bot, type <code>/help</code> to watch the full tutorial and fix it easily!</blockquote>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
